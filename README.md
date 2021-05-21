@@ -1,3 +1,6 @@
+![Image of The Good Wife S1](https://images-na.ssl-images-amazon.com/images/I/81U8gxa-K1L._RI_.jpg)
+
+
 # RNN - The Good Wife
 
 This repository contains materials for a simple model (an RNN, yes, not a transformer), making simplified word generation for the good wife.  This version focuses mostly on using character level, rather than embedding level.
