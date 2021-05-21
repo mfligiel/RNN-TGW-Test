@@ -5,6 +5,8 @@
 
 This repository contains materials for a simple model (an RNN, yes, not a transformer), making simplified word generation for the good wife.  This version focuses mostly on using character level, rather than embedding level.
 
+__Note - this project was originally done in June of 2020; it is being uploaded late in 2021.__
+
 ## Problem Statement
 
 No problem statement here per se; rather the idea was to build a bot to amuse myself and friends.​
